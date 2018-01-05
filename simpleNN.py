@@ -3,11 +3,6 @@
 import numpy as np
 import os
 
-# Network Structure
-#     o     flower type
-#    / \    w1, w2, b
-#   o   o   length, width
-
 
 #Input
 mystery_flower = [4.5, 1]
